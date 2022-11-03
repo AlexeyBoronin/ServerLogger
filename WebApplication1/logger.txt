@@ -1,0 +1,14 @@
+Now listening on: https://localhost:7120
+Now listening on: http://localhost:5059
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\Visual C++\WebApplication1\WebApplication1\
+Path: /  Time:20:30:52
+Path: /favicon.ico  Time:20:30:52
+Now listening on: https://localhost:7120
+Now listening on: http://localhost:5059
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\Visual C++\WebApplication1\WebApplication1\
+Path: /  Time:18:41:49
+Path: /favicon.ico  Time:18:41:49
